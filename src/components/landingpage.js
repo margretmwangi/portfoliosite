@@ -20,7 +20,7 @@ class Landing extends Component {
 
             <hr/>
 
-          <p>HTML/CSS | Bootstrap | JavaScript | Django | Flask | React</p>
+          <p>HTML/CSS | Bootstrap | JavaScript | Django | Flask | Angular</p>
 
         <div className="social-links">
 
